@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Linux & Containers
 - 💞️ I’m looking to collaborate but after gaining skills
 - 📫 Wanna reach me? check my LinkdIn profile ...
-- 😄 Pronouns: Belal
+- 😄 Pronouns: Ayan
 - ⚡ Fun fact: Humorous
 
 <!---
