@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Linux & Containers
 - 💞️ I’m looking to collaborate but after gaining skills
-- 📫 How to reach me, check my LinkdIn profile ...
+- 📫 Wanna reach me? check my LinkdIn profile ...
 - 😄 Pronouns: Belal
 - ⚡ Fun fact: Humorous
 
