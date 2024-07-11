@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Belal Ahmad Kureshi
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps field and want to explore more
 - 🌱 I’m currently learning Linux & Containers
 - 💞️ I’m looking to collaborate but after gaining skills
 - 📫 Wanna reach me? check my LinkdIn profile ...
